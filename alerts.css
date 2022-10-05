@@ -1,0 +1,126 @@
+.alerts-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-end;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://images.unsplash.com/photo-1487621167305-5d248087c724?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDIzfHx3ZWF0aGVyfGVufDB8fHx8MTY2NDk3NTQ2MQ&ixlib=rb-1.2.1&w=1500');
+}
+.alerts-text {
+  top: 40px;
+  left: 670px;
+  position: absolute;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+}
+.alerts-text1 {
+  top: 227px;
+  left: 140px;
+  position: absolute;
+  font-size: 22px;
+}
+.alerts-icon {
+  top: 229px;
+  left: 98px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.alerts-text2 {
+  top: 227px;
+  left: 774px;
+  position: absolute;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.alerts-icon02 {
+  top: 227px;
+  left: 735px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.alerts-icon04 {
+  top: 221px;
+  left: 1048px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.alerts-icon06 {
+  top: 358px;
+  left: 103px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.alerts-icon08 {
+  top: 363px;
+  left: 1042px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.alerts-icon10 {
+  top: 361px;
+  left: 372px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.alerts-icon12 {
+  top: 228px;
+  left: 372px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.alerts-icon14 {
+  top: 361px;
+  left: 733px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.alerts-text3 {
+  top: 222px;
+  left: 1082px;
+  position: absolute;
+  font-size: 22px;
+}
+.alerts-text4 {
+  top: 360px;
+  left: 156px;
+  position: absolute;
+  font-size: 22px;
+}
+.alerts-text5 {
+  top: 227px;
+  left: 424px;
+  position: absolute;
+  font-size: 22px;
+}
+.alerts-text6 {
+  top: 360px;
+  left: 426px;
+  position: absolute;
+  font-size: 22px;
+}
+.alerts-text7 {
+  top: 363px;
+  left: 786px;
+  position: absolute;
+  font-size: 22px;
+}
+.alerts-text8 {
+  top: 362px;
+  left: 1091px;
+  position: absolute;
+  font-size: 22px;
+}
